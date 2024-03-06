@@ -3,6 +3,10 @@
 ## Overview
 This is Chesscomputer v.0.1, a simple console-based chess game with a basic AI opponent. The game is implemented in C++ and provides a text-based interface for playing chess against the computer.
 
+## Screenshot
+
+
+
 ## Features
 - Human vs. AI gameplay
 - Basic AI opponent using the minimax algorithm
@@ -13,7 +17,7 @@ This is Chesscomputer v.0.1, a simple console-based chess game with a basic AI o
 ## How to Play
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/chess_game.git
+    git clone https://github.com/vatsalya-vyas/Chess.git
     cd Chess
     ```
 2. **Run the Code:**
