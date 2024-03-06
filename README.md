@@ -4,8 +4,7 @@
 This is Chesscomputer v.0.1, a simple console-based chess game with a basic AI opponent. The game is implemented in C++ and provides a text-based interface for playing chess against the computer.
 
 ## Screenshot
-
-
+![Screenshot from 2024-03-06 19-24-29](https://github.com/vatsalya-vyas/Chess/assets/140804211/cf93bab0-42d5-4729-811a-172078a181f6)
 
 ## Features
 - Human vs. AI gameplay
